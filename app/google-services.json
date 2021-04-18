@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "148764317422",
+    "project_id": "fir-vehical",
+    "storage_bucket": "fir-vehical.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148764317422:android:a99e8175f7d21f0412c5ff",
+        "android_client_info": {
+          "package_name": "com.unik.firebasevehical"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148764317422-g79booij2oup1fdsge6ltsfv39qf0ps5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3_21PyCa8cxb5Rr5iBTq10nNaWeg6P8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148764317422-g79booij2oup1fdsge6ltsfv39qf0ps5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
